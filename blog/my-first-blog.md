@@ -154,4 +154,4 @@ Enhancements	Add conditions	Flexibility
 
 ##Sum Up
 
-Customizing SAP MM screens based on user needs is a core technical skill. It controls how users work inside the system. Proper screen control improves data quality, reduces errors, and supports audits. It also reduces training effort because the screen itself guides the user. Screen customization is not about hiding fields. People completing SAP MM online certification projects learn that screen control is a key skill that separates average consultants from strong ones.
+Customizing SAP MM screens based on user needs is a core technical skill. It controls how users work inside the system. Proper screen control improves data quality, reduces errors, and supports audits. It also reduces training effort because the screen itself guides the user. Screen customization is not about hiding fields. People completing <b><i><a href="https://www.quickdials.com/online/sap-mm-training">SAP MM online certification</a></i></b> projects learn that screen control is a key skill that separates average consultants from strong ones.
